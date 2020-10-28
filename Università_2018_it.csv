@@ -1,0 +1,373 @@
+annopubblicazione,corso_codice,corso_descrizione,p_fuoriregione,p_laureatiincorso,p_esperienzaestero,p_soddisfatti,p_soddisfatti_italia,p_lavorano,p_lavorano_italia,p_studiano,p_studiano_italia
+2018,0659,Giurisprudenza,0.65,0.35,0.19,0.89,0.87,0.26,0.23,0.42,0.42
+2018,0660,Giurisprudenza,0.16,0.29,0.13,0.97,0.87,0.22,0.23,0.41,0.42
+2018,0868,Economia e marketing nel sistema agro-industriale,0.51,0.56,0.12,0.84,0.9,0.35,0.37,0.56,0.56
+2018,0869,Tecnologie agrarie,0.39,0.49,0.11,0.93,0.9,0.35,0.37,0.64,0.56
+2018,0870,Scienze del territorio e dell'ambiente agro-forestale,0.44,0.37,0.22,0.89,0.9,0.24,0.37,0.72,0.56
+2018,0871,Verde ornamentale e tutela del paesaggio,0.36,0.37,0.02,0.85,0.9,0.43,0.37,0.29,0.56
+2018,0872,Viticoltura ed enologia,0.24,0.33,0.02,1,0.92,0.81,0.4,0.05,0.5
+2018,0873,Tecnologie alimentari,0.2,0.35,0.06,0.92,0.92,0.39,0.4,0.49,0.5
+2018,0875,Produzioni animali e controllo della fauna selvatica,0.42,0.38,0.05,0.88,0.87,0.47,0.41,0.33,0.44
+2018,0876,Ortofrutticoltura internazionale,0.69,0.8,0.59,0.93,0.9,0.78,0.56,0.11,0.12
+2018,0877,"Progettazione e gestione degli ecosistemi agro-territoriali, forestali e del paesaggio",0.59,0.68,0.19,1,0.89,0.6,0.47,0.16,0.14
+2018,0878,Scienze e tecnologie agrarie,0.57,0.62,0.14,0.9,0.9,0.75,0.56,0.04,0.12
+2018,0879,Scienze e tecnologie alimentari,0.67,0.79,0.08,0.92,0.92,0.45,0.58,0.21,0.09
+2018,0881,Architettura,0.48,0.48,0.26,0.92,0.83,0.57,0.51,0.11,0.14
+2018,0882,Chimica industriale,0.32,0.5,0.09,0.93,0.94,0.3,0.24,0.66,0.72
+2018,0883,Chimica e tecnologie per l'ambiente e per i materiali,0.34,0.33,0.04,0.96,0.94,0.37,0.24,0.53,0.72
+2018,0884,Chimica industriale,0.34,0.88,0.24,0.94,0.93,0.52,0.49,0.28,0.26
+2018,0886,Beni culturali,0.42,0.52,0.06,0.94,0.88,0.4,0.34,0.57,0.55
+2018,0887,"Ricerca, documentazione e tutela dei beni archeologici",,,0.13,0.63,0.89,0.59,0.4,0.05,0.22
+2018,0888,"Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali nel Mediterraneo e in eurasia",0.91,0.55,0.29,0.73,0.82,0.49,0.52,0.12,0.13
+2018,0891,Economia aziendale,0.41,0.6,0.09,0.94,0.89,0.27,0.33,0.69,0.6
+2018,0893,Economia e finanza,0.62,0.65,0.17,0.8,0.87,0.15,0.29,0.75,0.65
+2018,0894,Economia e gestione delle imprese,0.47,0.74,0.17,0.9,0.89,0.24,0.33,0.69,0.6
+2018,0895,Economia e marketing,0.62,0.73,0.45,0.87,0.89,0.35,0.33,0.59,0.6
+2018,0897,Direzione aziendale,0.64,0.85,0.22,0.94,0.92,0.68,0.62,0.13,0.13
+2018,0898,Economia,0.95,0.84,0.26,0.89,0.9,0.39,0.56,0.54,0.16
+2018,0899,Economia e diritto,0.67,0.77,0.1,0.92,0.9,0.67,0.56,0.04,0.16
+2018,0900,Economia e professione,0.46,0.68,0.04,0.95,0.92,0.56,0.62,0.26,0.13
+2018,0901,"Finanza, intermediari e mercati",0.64,0.69,0.08,0.99,0.92,0.68,0.73,0.06,0.09
+2018,0902,Innovation and organization of culture and the arts,0.83,0.97,0.36,0.81,0.81,0.64,0.57,0,0.14
+2018,0904,Economia e commercio,0.25,0.57,0.07,0.96,0.89,0.48,0.33,0.47,0.6
+2018,0905,Economia e commercio,0.31,0.69,0.07,0.95,0.92,0.59,0.62,0.18,0.13
+2018,0906,Economia e gestione aziendale,0.47,0.83,0.42,0.96,0.92,0.8,0.62,0.09,0.13
+2018,0907,Economia e management delle imprese cooperative e delle organizzazioni non-profit,0.68,0.68,0.31,1,0.92,0.79,0.62,0.07,0.13
+2018,0908,Economia del turismo,0.61,0.55,0.1,0.83,0.87,0.48,0.29,0.26,0.65
+2018,0909,Economia dell'impresa,0.27,0.39,0.02,0.89,0.89,0.56,0.33,0.36,0.6
+2018,0910,Amministrazione e controllo d'impresa,0.48,0.73,0.06,0.97,0.92,0.59,0.62,0.17,0.13
+2018,0911,Economia e politica dei mercati,,,0.25,0.75,0.9,0.75,0.56,0,0.16
+2018,0912,Economia e management del turismo,0.93,0.8,0.38,0.87,0.9,0.74,0.56,0.06,0.16
+2018,0913,Controllo di qualita dei prodotti per la salute,,0.7,0,0.82,0.85,0.43,0.4,0.29,0.44
+2018,0914,Scienze farmaceutiche applicate,0.23,0.3,0,0.7,0.85,0.58,0.4,0.08,0.44
+2018,0915,Consulente del lavoro e delle relazioni aziendali,0.46,0.22,0,0.91,0.89,0.5,0.51,0.3,0.3
+2018,0916,Giurista d'impresa e delle amministrazioni pubbliche,0.25,0.38,0.02,0.92,0.89,0.56,0.51,0.3,0.3
+2018,0918,Ingegneria chimica e biochimica,0.49,0.39,0.06,0.89,0.9,0.07,0.21,0.93,0.77
+2018,0919,Ingegneria civile,0.47,0.32,0.02,0.83,0.87,0.24,0.2,0.74,0.76
+2018,0920,Ingegneria dell'automazione,0.33,0.32,0.17,0.88,0.89,0.26,0.26,0.71,0.72
+2018,0921,Ingegneria edile,0.26,0.02,0,0.83,0.81,0.34,0.28,0.59,0.69
+2018,0922,Ingegneria elettrica,0.39,0.31,0,0.9,0.9,0.31,0.21,0.69,0.77
+2018,0923,Ingegneria elettronica e telecomunicazioni,0.42,0.29,0.03,0.88,0.89,0.14,0.26,0.86,0.72
+2018,0924,Ingegneria energetica,0.47,0.49,0.04,0.85,0.9,0.17,0.21,0.8,0.77
+2018,0925,Ingegneria gestionale,0.37,0.72,0.08,0.92,0.9,0.22,0.21,0.74,0.77
+2018,0926,Ingegneria informatica,0.44,0.37,0.03,0.92,0.89,0.41,0.26,0.59,0.72
+2018,0927,Ingegneria meccanica,0.35,0.4,0.01,0.87,0.9,0.23,0.21,0.76,0.77
+2018,0928,Ingegneria per l'ambiente e il territorio,0.33,0.32,0.03,0.91,0.87,0.24,0.2,0.73,0.76
+2018,0929,Ingegneria chimica e di processo,0.79,0.53,0.23,0.96,0.94,0.73,0.6,0.15,0.17
+2018,0930,Ingegneria civile,0.55,0.37,0.05,0.93,0.9,0.76,0.63,0.07,0.11
+2018,0931,Ingegneria dell'automazione,0.58,0.56,0.09,0.92,0.93,0.75,0.79,0.22,0.15
+2018,0932,Ingegneria delle telecomunicazioni,0.78,0.48,0.06,0.81,0.95,0.7,0.71,0.3,0.18
+2018,0933,Ingegneria elettrica,0.65,0.53,0.1,0.97,0.9,0.95,0.79,0.05,0.1
+2018,0934,Ingegneria elettronica,0.71,0.34,0.12,0.88,0.91,0.6,0.7,0.2,0.18
+2018,0935,Ingegneria energetica,0.48,0.47,0.17,0.76,0.85,0.54,0.62,0.29,0.17
+2018,0936,Ingegneria gestionale,0.48,0.79,0.14,0.93,0.94,0.88,0.84,0.04,0.06
+2018,0937,Ingegneria informatica,0.45,0.56,0.02,0.98,0.94,0.85,0.8,0.08,0.15
+2018,0938,Ingegneria meccanica,0.55,0.49,0.11,0.89,0.92,0.85,0.8,0.12,0.1
+2018,0939,Ingegneria per l'ambiente e il territorio,0.77,0.66,0.18,0.87,0.91,0.6,0.54,0.07,0.12
+2018,0940,Ingegneria edile - architettura,0.4,0.01,0.19,0.73,0.83,0.67,0.51,0.09,0.14
+2018,0941,Ingegneria dei sistemi edilizi e urbani,0.44,0.67,0.15,0.87,0.88,0.72,0.58,0.05,0.12
+2018,0945,Ingegneria aerospaziale,0.35,0.31,0.02,1,0.9,0.41,0.21,0.59,0.77
+2018,0946,Ingegneria biomedica,0.33,0.33,0.01,0.87,0.89,0.18,0.26,0.79,0.72
+2018,0947,Ingegneria elettronica e telecomunicazioni,,,,,0.89,1,0.26,0,0.72
+2018,0949,Ingegneria meccanica,0.16,0.29,0,0.85,0.9,0.26,0.21,0.71,0.77
+2018,0955,Culture e tecniche della moda,0.62,0.6,0.07,0.86,0.82,0.5,0.42,0.25,0.38
+2018,0956,"Dams - discipline delle arti, della musica e dello spettacolo",0.76,0.34,0.08,0.81,0.82,0.38,0.42,0.43,0.38
+2018,0957,Filosofia,0.66,0.5,0.11,0.88,0.89,0.33,0.31,0.64,0.64
+2018,0958,Lettere,0.6,0.51,0.15,0.92,0.88,0.29,0.29,0.64,0.67
+2018,0959,Scienze antropologiche,0.72,0.46,0.19,0.89,0.9,0.36,0.33,0.58,0.6
+2018,0960,Scienze della comunicazione,0.5,0.49,0.07,0.88,0.86,0.48,0.46,0.29,0.37
+2018,0961,Scienze geografiche,,,,,0.85,1,0.52,0,0.3
+2018,0962,Storia,0.5,0.42,0.06,0.93,0.9,0.34,0.33,0.63,0.6
+2018,0964,Antropologia culturale ed etnologia,0.66,0.41,0.14,0.9,0.91,0.61,0.57,0.17,0.18
+2018,0965,Archeologia e culture del mondo antico,0.72,0.51,0.13,0.91,0.89,0.37,0.4,0.34,0.22
+2018,0966,"Cinema, televisione e produzione multimediale",0.82,0.44,0.13,0.78,0.83,0.52,0.53,0.15,0.11
+2018,0967,Discipline della musica,,,0.13,0.5,0.89,0.72,0.67,0.11,0.11
+2018,0968,Semiotica,0.7,0.43,0.11,0.8,0.84,0.47,0.56,0.26,0.11
+2018,0970,"Filologia, letteratura e tradizione classica",0.7,0.6,0.05,0.92,0.92,0.47,0.54,0.18,0.17
+2018,0971,Geografia e processi territoriali,0.59,0.44,0.13,0.87,0.84,0.8,0.6,0,0.09
+2018,0972,Lingue e culture dell'Asia e dell'Africa,,,0.33,0.63,0.81,0.77,0.55,0.09,0.14
+2018,0973,"Italianistica, culture letterarie europee, scienze linguistiche",0.68,0.57,0.13,0.92,0.91,0.56,0.54,0.18,0.13
+2018,0975,Scienze filosofiche,0.69,0.41,0.19,0.92,0.89,0.36,0.45,0.26,0.22
+2018,0976,Moda,0.85,0.81,0.18,0.88,0.83,0.47,0.53,0.09,0.11
+2018,0977,Arti visive,0.68,0.44,0.06,0.93,0.91,0.34,0.5,0.14,0.13
+2018,0978,Scienze storiche,0.65,0.4,0.16,0.92,0.91,0.5,0.49,0.2,0.18
+2018,0979,Lingue e letterature straniere,0.48,0.52,0.38,0.85,0.84,0.44,0.39,0.44,0.48
+2018,0980,"Lingue, mercati e culture dell'Asia",0.58,0.54,0.42,0.86,0.84,0.37,0.39,0.47,0.48
+2018,0981,"Letterature moderne, comparate e postcoloniali",0.62,0.61,0.49,0.89,0.91,0.72,0.63,0.11,0.1
+2018,0982,"Lingua, societa e comunicazione",0.72,0.77,0.43,0.73,0.84,0.6,0.66,0.09,0.07
+2018,0983,Lingua e cultura italiane per stranieri,0.76,0.53,0.44,0.83,0.87,0.66,0.56,0.11,0.21
+2018,0984,Sociologia e scienze criminologiche per la sicurezza,0.41,0.57,0.09,0.92,0.88,0.33,0.4,0.55,0.43
+2018,0985,Criminologia applicata per l'investigazione e la sicurezza,0.82,0.69,0.03,0.82,0.85,0.51,0.51,0.05,0.13
+2018,0986,Acquacoltura e igiene delle produzioni ittiche,0.45,0.3,0.05,0.9,0.87,0.46,0.41,0.39,0.44
+2018,0987,Sicurezza e qualita delle produzioni animali,0.67,0.71,0.04,0.93,0.9,0.72,0.58,0.08,0.16
+2018,0988,Scienze del comportamento e delle relazioni sociali,0.43,0.77,0.1,0.89,0.91,0.31,0.32,0.67,0.65
+2018,0989,Neuroscienze e riabilitazione neuropsicologica,0.67,0.76,0.02,0.92,0.92,0.43,0.43,0.36,0.29
+2018,0990,Psicologia clinica,0.62,0.85,0.1,0.91,0.92,0.4,0.43,0.32,0.29
+2018,0991,Psicologia cognitiva applicata,0.51,0.74,0,0.82,0.92,0.67,0.43,0.2,0.29
+2018,0992,Psicologia delle organizzazioni e dei servizi,0.9,0.96,0.47,0.94,0.92,0.32,0.43,0.26,0.29
+2018,0993,Psicologia scolastica e di comunita,0.74,0.65,0.08,0.94,0.92,0.6,0.43,0.18,0.29
+2018,0994,Educatore nei servizi per l'infanzia,0.22,0.58,0.02,0.96,0.93,0.72,0.6,0.18,0.27
+2018,0995,Educatore sociale e culturale,0.36,0.51,0.05,0.93,0.93,0.62,0.6,0.26,0.27
+2018,0997,Scienze dell'educazione permanente e della formazione continua,0.68,0.36,0,1,0.94,0.5,0.66,0,0.08
+2018,0998,Pedagogia,0.38,0.3,0.04,0.88,0.9,0.78,0.68,0.04,0.06
+2018,8002,Progettazione e gestione dell'intervento educativo nel disagio sociale,0.65,0.52,0.07,0.87,0.88,0.88,0.78,0.04,0.06
+2018,8003,Formazione e cooperazione,,,,,0.88,1,0.78,0,0.06
+2018,8004,Astronomia,0.58,0.21,0.04,0.96,0.9,0.2,0.3,0.8,0.67
+2018,8005,Biotecnologie,0.27,0.52,0.04,0.96,0.93,0.2,0.19,0.77,0.78
+2018,8006,Chimica e chimica dei materiali,0.57,0.46,0,0.91,0.94,0.19,0.24,0.77,0.72
+2018,8007,Fisica,0.33,0.44,0.03,0.91,0.9,0.2,0.3,0.8,0.67
+2018,8009,Informatica,0.49,0.17,0.05,0.9,0.9,0.57,0.6,0.4,0.36
+2018,8010,Matematica,0.49,0.27,0.13,0.9,0.93,0.25,0.25,0.73,0.73
+2018,8011,Scienze ambientali,0.3,0.3,0.02,1,0.91,0.33,0.34,0.67,0.56
+2018,8012,Scienze biologiche,0.34,0.42,0.08,0.88,0.9,0.25,0.19,0.71,0.78
+2018,8014,Informatica per il management,0.53,0.17,0.04,0.91,0.9,0.69,0.6,0.21,0.36
+2018,8015,Scienze geologiche,0.36,0.67,0.03,0.97,0.93,0.24,0.2,0.76,0.75
+2018,8016,Scienze naturali,0.44,0.36,0.03,0.93,0.91,0.24,0.34,0.66,0.56
+2018,8018,Astrofisica e cosmologia,0.79,0.33,0,0.88,0.9,0.46,0.35,0.41,0.51
+2018,8020,Bioinformatics,0.74,0.58,0,0.92,0.9,0.17,0.33,0.58,0.23
+2018,8021,Biologia molecolare e cellulare,0.63,0.82,0.13,1,0.9,0.4,0.33,0.3,0.23
+2018,8022,Biotecnologie molecolari e industriali,0.71,0.71,0.08,0.88,0.93,0.16,0.37,0.47,0.31
+2018,8023,Biologia della salute,0.55,0.71,0.02,0.92,0.9,0.44,0.33,0.16,0.23
+2018,8024,Biologia marina,0.74,0.81,0.14,0.88,0.9,0.33,0.33,0.13,0.23
+2018,8025,Fisica,0.51,0.57,0.04,0.88,0.92,0.54,0.3,0.37,0.58
+2018,8026,Fotochimica e materiali molecolari,0.69,0.7,0.19,0.81,0.91,0.18,0.43,0.59,0.31
+2018,8027,Geologia e territorio,0.41,0.52,0.07,0.93,0.91,0.64,0.42,0.03,0.18
+2018,8028,Informatica,0.65,0.46,0.16,0.89,0.92,0.9,0.76,0,0.18
+2018,8029,Chimica,0.74,0.53,0.42,0.89,0.91,0.29,0.43,0.39,0.31
+2018,8031,Scienze di internet,,,,,1,0.75,0.67,0,0.11
+2018,8033,Scienze per l'ambiente,0.53,0.84,0.45,0.96,0.88,0.31,0.45,0.13,0.15
+2018,8034,Scienze motorie,0.27,0.38,0.05,0.82,0.83,0.8,0.59,0.18,0.35
+2018,8036,Scienze e tecniche dell'attivita motoria preventiva e adattata,0.26,0.77,0.07,0.79,0.8,0.88,0.76,0.02,0.06
+2018,8037,Scienze e tecniche dell'attivita sportiva,0.4,0.72,0.04,0.84,0.83,0.82,0.77,0,0.07
+2018,8038,"Economia, mercati e istituzioni",0.49,0.65,0.26,0.82,0.87,0.3,0.29,0.64,0.65
+2018,8040,Servizio sociale,0.37,0.75,0.09,0.95,0.94,0.55,0.43,0.33,0.39
+2018,8042,Studi internazionali,0.62,0.47,0.17,0.85,0.89,0.31,0.36,0.63,0.55
+2018,8043,Sviluppo e cooperazione internazionale,0.59,0.44,0.19,0.77,0.83,0.48,0.4,0.52,0.49
+2018,8044,"Economia, industria e istituzioni finanziarie",0.81,0.65,0.18,0.84,0.9,0.51,0.56,0.29,0.16
+2018,8045,Politica amministrazione e organizzazione,0.67,0.63,0.13,0.82,0.91,0.67,0.58,0.11,0.06
+2018,8046,Relazioni internazionali,0.8,0.71,0.35,0.73,0.88,0.59,0.48,0.09,0.13
+2018,8047,"Occupazione, mercato, ambiente, politiche sociali e servizio sociale",0.61,0.5,0.11,0.87,0.88,0.6,0.63,0.15,0.07
+2018,8048,Scienze internazionali e diplomatiche,0.56,0.64,0.41,0.94,0.89,0.23,0.36,0.7,0.55
+2018,8049,Interdisciplinary research and studies on eastern europe,0.83,0.93,1,0.97,0.88,0.41,0.48,0.23,0.13
+2018,8050,Scienze internazionali e diplomatiche,0.8,0.65,0.56,0.83,0.88,0.42,0.48,0.13,0.13
+2018,8051,Mass media e politica,0.68,0.71,0.27,0.95,0.91,0.56,0.56,0.11,0.1
+2018,8053,"Finanza, assicurazioni e impresa",0.39,0.49,0.07,0.89,0.94,0.28,0.38,0.59,0.55
+2018,8054,Scienze statistiche,0.39,0.57,0.17,0.98,0.94,0.34,0.38,0.57,0.55
+2018,8055,Scienze statistiche,0.59,0.6,0.13,0.93,0.91,0.67,0.7,0.08,0.14
+2018,8056,"Statistica, economia e impresa",0.65,0.6,0.16,0.88,0.91,0.74,0.7,0.07,0.14
+2018,8057,Sistemi informativi per l'azienda e la finanza,0.55,0.7,0.07,0.9,0.94,0.76,0.8,0.08,0.08
+2018,8058,"Cooperazione internazionale, sviluppo e diritti umani",0.72,0.68,0.33,0.73,0.82,0.5,0.52,0.07,0.13
+2018,8059,Mediazione linguistica interculturale,0.67,0.86,0.87,0.98,0.8,0.4,0.41,0.57,0.47
+2018,8060,Interpretazione,0.74,0.6,0.24,0.95,0.89,0.85,0.7,0.06,0.05
+2018,8061,Traduzione specializzata,0.62,0.81,0.44,0.98,0.89,0.77,0.7,0.06,0.05
+2018,8070,Educatore sociale e culturale,0.19,0.46,0.05,0.96,0.93,0.71,0.6,0.16,0.27
+2018,8096,Chimica e tecnologie per l'ambiente e per i materiali,0.1,0.36,0,1,0.94,0.46,0.24,0.46,0.72
+2018,8180,Biotecnologie farmaceutiche,0.68,0.84,0.22,0.89,0.91,0.37,0.31,0.33,0.27
+2018,8182,Design del prodotto industriale,0.31,0.7,0.03,0.85,0.85,0.39,0.43,0.54,0.37
+2018,8197,Ingegneria aerospaziale,0.63,0.32,0.16,0.9,0.87,0.72,0.63,0.17,0.17
+2018,8198,Ingegneria biomedica,0.54,0.29,0.02,0.91,0.89,0.77,0.64,0.1,0.17
+2018,8199,Ingegneria elettronica e telecomunicazioni per lo sviluppo sostenibile,0.19,0.67,0,1,0.91,0.75,0.7,0.25,0.18
+2018,8202,Ingegneria meccanica,0.22,0.49,0.13,0.94,0.92,0.9,0.8,0.05,0.1
+2018,8204,Odontoiatria e protesi dentaria,0.69,0.89,0.04,0.85,0.86,0.72,0.71,0.06,0.15
+2018,8205,Biotecnologie mediche,0.88,0.83,0.09,0.88,0.91,0.25,0.31,0.27,0.27
+2018,8206,Medicina veterinaria,0.71,0.49,0.17,0.85,0.86,0.44,0.55,0.3,0.21
+2018,8207,Biotecnologie animali,0.67,0.63,0.04,0.87,0.91,0.75,0.31,0.25,0.27
+2018,8208,Matematica,0.64,0.62,0.13,0.9,0.92,0.77,0.63,0.15,0.25
+2018,8209,Scienze e gestione della natura,0.64,0.71,0.1,0.82,0.85,0.6,0.45,0.15,0.14
+2018,8210,Management delle attivita motorie e sportive,0.74,0.81,0.17,0.62,0.69,0.63,0.68,0.11,0.11
+2018,8211,Civil engineering,0.88,0.7,0.36,0.98,0.9,0.58,0.63,0.2,0.11
+2018,8212,Economics and market policy,,,0.25,0.75,0.9,0.75,0.56,0,0.16
+2018,8263,Ingegneria aerospaziale,0.35,0.31,0.02,1,0.9,0.41,0.21,0.59,0.77
+2018,8405,Economia aziendale,0.41,0.6,0.09,0.94,0.89,0.27,0.33,0.69,0.6
+2018,8406,Management e marketing,0.47,0.74,0.17,0.9,0.89,0.24,0.33,0.69,0.6
+2018,8407,Business and economics,0.62,0.73,0.45,0.87,0.89,0.35,0.33,0.59,0.6
+2018,8408,Economics,0.95,0.84,0.26,0.89,0.9,0.39,0.56,0.54,0.16
+2018,8409,Quantitative finance,0.8,0.67,0.54,0.91,0.92,0.88,0.73,0.08,0.09
+2018,8412,Chimica e tecnologia farmaceutiche,0.58,0.33,0.01,0.96,0.92,0.55,0.58,0.18,0.16
+2018,8413,Farmacia,0.5,0.19,0.11,0.88,0.92,0.55,0.58,0.13,0.16
+2018,8414,Farmacia,0.26,0.42,0,0.93,0.92,0.58,0.58,0.1,0.16
+2018,8415,Medicina e chirurgia,0.59,0.7,0.27,0.92,0.85,0.44,0.41,0.38,0.46
+2018,8417,Science for the conservation - restoration of cultural heritage,0.96,0.56,0,0.53,0.79,0.6,0.42,0,0.15
+2018,8418,Analisi e gestione dell'ambiente,0.53,0.84,0.45,0.96,0.88,0.31,0.45,0.13,0.15
+2018,8419,Biodiversita ed evoluzione,0.76,0.6,0,0.78,0.9,0.39,0.33,0.23,0.23
+2018,8420,Economia e politica economica,0.81,0.65,0.18,0.84,0.9,0.51,0.56,0.29,0.16
+2018,8470,Dietistica (abilitante alla professione sanitaria di dietista),0.57,0.58,0.07,0.67,0.86,0.5,0.55,0.5,0.19
+2018,8471,Ostetricia (abilitante alla professione sanitaria di ostetrica/o),0.57,0.88,0,0.95,0.91,0.54,0.73,0.23,0.06
+2018,8472,Ostetricia (abilitante alla professione sanitaria di ostetrica/o),,0.67,0,1,0.91,0.67,0.73,0.11,0.06
+2018,8473,Infermieristica (abilitante alla professione sanitaria di infermiere),0.38,0.65,0.06,0.89,0.91,0.73,0.73,0.07,0.06
+2018,8474,Infermieristica (abilitante alla professione sanitaria di infermiere),0.23,0.76,0.03,0.91,0.91,0.88,0.73,0.05,0.06
+2018,8475,Infermieristica (abilitante alla professione sanitaria di infermiere),0.36,0.68,0.05,0.93,0.91,0.91,0.73,0.02,0.06
+2018,8476,Fisioterapia (abilitante alla professione sanitaria di fisioterapista),0.36,0.76,0.04,0.89,0.83,0.9,0.83,0.08,0.07
+2018,8477,Educazione professionale (abilitante alla professione sanitaria di educatore professionale),0.38,0.72,0,0.97,0.83,0.77,0.83,0.13,0.07
+2018,8478,Logopedia (abilitante alla professione sanitaria di logopedista),,0.92,0,0.9,0.83,0.9,0.83,0.1,0.07
+2018,8479,Podologia (abilitante alla professione sanitaria di podologo),0.6,0.83,0.18,0.78,0.83,1,0.83,0,0.07
+2018,8481,Igiene dentale (abilitante alla professione sanitaria di igienista dentale),0.5,0.77,0,0.82,0.86,1,0.55,0,0.19
+2018,8482,Tecniche di neurofisiopatologia (abilitante alla professione sanitaria di tecnico di neurofisiopatologia),0.67,1,0,0.9,0.86,0.83,0.55,0.17,0.19
+2018,8483,Tecniche ortopediche (abilitante alla professione sanitaria di tecnico ortopedico),0.09,0.7,0.09,0.8,0.86,0.85,0.55,0.08,0.19
+2018,8484,Tecniche di laboratorio biomedico (abilitante alla professione sanitaria di tecnico di laboratorio biomedico),0.67,0.69,0,1,0.86,0.73,0.55,0.13,0.19
+2018,8485,"Tecniche di radiologia medica, per immagini e radioterapia (abilitante alla professione sanitaria di tecnico di radiologia medica)",0.14,0.67,0.15,1,0.86,0.8,0.55,0,0.19
+2018,8486,"Tecniche di radiologia medica, per immagini e radioterapia (abilitante alla professione sanitaria di tecnico di radiologia medica)",0.2,1,0.06,1,0.86,0.6,0.55,0,0.19
+2018,8487,Tecniche della prevenzione nell'ambiente e nei luoghi di lavoro (abilitante alla professione sanitaria di tecnico della prevenzione nell'ambiente e nei luoghi di lavoro),0.33,0.76,0,0.85,0.87,0.61,0.51,0.22,0.21
+2018,8488,Scienze infermieristiche e ostetriche,0.26,0.92,0,0.78,0.82,0.94,0.93,0.06,0.02
+2018,8489,Economia sociale,0.68,0.68,0.31,1,0.92,0.79,0.62,0.07,0.13
+2018,8491,Scienze criminologiche per l'investigazione e la sicurezza,0.82,0.69,0.03,0.82,0.85,0.51,0.51,0.05,0.13
+2018,8493,"Antropologia, religioni, civilta orientali",0.72,0.46,0.19,0.89,0.9,0.36,0.33,0.58,0.6
+2018,8494,"Scienze politiche, sociali e internazionali",0.62,0.47,0.17,0.85,0.89,0.31,0.36,0.63,0.55
+2018,8495,Sociologia,0.41,0.57,0.09,0.92,0.88,0.33,0.4,0.55,0.43
+2018,8508,Biotecnologie mediche,0.88,0.83,0.09,0.88,0.91,0.25,0.31,0.27,0.27
+2018,8509,"Cooperazione internazionale, sviluppo e diritti umani",0.72,0.68,0.33,0.73,0.82,0.5,0.52,0.07,0.13
+2018,8510,Sviluppo e cooperazione internazionale,0.59,0.44,0.19,0.77,0.83,0.48,0.4,0.52,0.49
+2018,8512,Scienze delle attivita motorie e sportive,0.27,0.38,0.05,0.82,0.83,0.8,0.59,0.18,0.35
+2018,8513,Chimica industriale,0.32,0.5,0.09,0.93,0.94,0.3,0.24,0.66,0.72
+2018,8514,Chimica e tecnologie per l'ambiente e per i materiali,0.34,0.33,0.04,0.96,0.94,0.37,0.24,0.53,0.72
+2018,8515,Chimica e tecnologie per l'ambiente e per i materiali,0.1,0.36,0,1,0.94,0.46,0.24,0.46,0.72
+2018,8516,"Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali nel Mediterraneo e in eurasia",0.91,0.55,0.29,0.73,0.82,0.49,0.52,0.12,0.13
+2018,8517,Controllo di qualita dei prodotti per la salute,,0.7,0,0.82,0.85,0.43,0.4,0.29,0.44
+2018,8518,Scienze farmaceutiche applicate,0.23,0.3,0,0.7,0.85,0.58,0.4,0.08,0.44
+2018,8519,Biotecnologie farmaceutiche,0.68,0.84,0.22,0.89,0.91,0.37,0.31,0.33,0.27
+2018,8520,Acquacoltura e igiene delle produzioni ittiche,0.45,0.3,0.05,0.9,0.87,0.46,0.41,0.39,0.44
+2018,8521,Sicurezza e qualita delle produzioni animali,0.67,0.71,0.04,0.93,0.9,0.72,0.58,0.08,0.16
+2018,8522,Biotecnologie animali,0.67,0.63,0.04,0.87,0.91,0.75,0.31,0.25,0.27
+2018,8523,Verde ornamentale e tutela del paesaggio,0.36,0.37,0.02,0.85,0.9,0.43,0.37,0.29,0.56
+2018,8524,Tecnologie agrarie,0.39,0.49,0.11,0.93,0.9,0.35,0.37,0.64,0.56
+2018,8525,Scienze del territorio e dell'ambiente agro-forestale,0.44,0.37,0.22,0.89,0.9,0.24,0.37,0.72,0.56
+2018,8526,Economia e marketing nel sistema agro-industriale,0.51,0.56,0.12,0.84,0.9,0.35,0.37,0.56,0.56
+2018,8527,Viticoltura ed enologia,0.24,0.33,0.02,1,0.92,0.81,0.4,0.05,0.5
+2018,8528,Tecnologie alimentari,0.2,0.35,0.06,0.92,0.92,0.39,0.4,0.49,0.5
+2018,8529,Produzioni animali e controllo della fauna selvatica,0.42,0.38,0.05,0.88,0.87,0.47,0.41,0.33,0.44
+2018,8530,Scienze e tecnologie agrarie,0.57,0.62,0.14,0.9,0.9,0.75,0.56,0.04,0.12
+2018,8531,Scienze e tecnologie alimentari,0.67,0.79,0.08,0.92,0.92,0.45,0.58,0.21,0.09
+2018,8532,"Progettazione e gestione degli ecosistemi agro-territoriali, forestali e del paesaggio",0.59,0.68,0.19,1,0.89,0.6,0.47,0.16,0.14
+2018,8537,Science for the conservation - restoration of cultural heritage,0.96,0.56,0,0.53,0.79,0.6,0.42,0,0.15
+2018,8540,Scienze della formazione primaria,0.33,0.54,0.1,0.94,0.93,0.8,0.73,0.04,0.09
+2018,8609,Tourism economics and management / economia e management del turismo,0.93,0.8,0.38,0.87,0.9,0.74,0.56,0.06,0.16
+2018,8610,Ingegneria dell'energia elettrica,0.39,0.31,0,0.9,0.9,0.31,0.21,0.69,0.77
+2018,8611,Ingegneria dell'energia elettrica,0.65,0.53,0.1,0.97,0.9,0.95,0.79,0.05,0.1
+2018,8612,Ingegneria dei sistemi elettronici per lo sviluppo sostenibile,0.3,0.36,0.05,0.84,0.89,0.27,0.26,0.73,0.72
+2018,8613,Scienze statistiche finanziarie e attuariali,0.55,0.7,0.07,0.9,0.94,0.76,0.8,0.08,0.08
+2018,8614,Ingegneria e scienze informatiche,0.32,0.42,0.14,1,0.92,0.77,0.76,0.19,0.18
+2018,8615,Ingegneria e scienze informatiche,0.24,0.36,0.04,0.96,0.89,0.44,0.26,0.52,0.72
+2018,8616,Conservazione e restauro dei beni culturali (abilitante ai sensi del d. lgs n. 42/2004),0.67,,,,0.93,,0.38,,0.11
+2018,8617,Medicina veterinaria,0.71,0.49,0.17,0.85,0.86,0.44,0.55,0.3,0.21
+2018,8626,Fisica del sistema Terra,0.73,0.18,0.2,0.9,0.92,0.53,0.3,0.29,0.58
+2018,8765,International horticultural science / ortofrutticoltura internazionale,0.69,0.8,0.59,0.93,0.9,0.78,0.56,0.11,0.12
+2018,8766,Scienze delle attivita motorie e sportive,0.19,0.57,0.02,0.82,0.83,0.71,0.59,0.29,0.35
+2018,8767,Ingegneria elettronica per l'energia e l'informazione,0.3,0.36,0.05,0.84,0.89,0.27,0.26,0.73,0.72
+2018,8769,Aerospace engineering / ingegneria aerospaziale,0.63,0.32,0.16,0.9,0.87,0.72,0.63,0.17,0.17
+2018,8770,Ingegneria elettronica e telecomunicazioni per l'energia,0.19,0.67,0,1,0.91,0.75,0.7,0.25,0.18
+2018,8771,Ingegneria meccanica,0.22,0.49,0.13,0.94,0.92,0.9,0.8,0.05,0.1
+2018,8772,Culture e tecniche della moda,0.62,0.6,0.07,0.86,0.82,0.5,0.42,0.25,0.38
+2018,8773,Scienze filosofiche,0.69,0.41,0.19,0.92,0.89,0.36,0.45,0.26,0.22
+2018,8774,Scienze e tecniche psicologiche,0.43,0.77,0.1,0.89,0.91,0.31,0.32,0.67,0.65
+2018,8775,Educatore nei servizi per l'infanzia,0.22,0.58,0.02,0.96,0.93,0.72,0.6,0.18,0.27
+2018,8776,Educatore sociale e culturale,0.36,0.51,0.05,0.93,0.93,0.62,0.6,0.26,0.27
+2018,8777,Educatore sociale e culturale,0.19,0.46,0.05,0.96,0.93,0.71,0.6,0.16,0.27
+2018,8778,Progettazione e gestione dell'intervento educativo nel disagio sociale,0.65,0.52,0.07,0.87,0.88,0.88,0.78,0.04,0.06
+2018,8779,Progettazione e gestione dell'intervento educativo nel disagio sociale,0.7,0.71,0,0.94,0.88,0.9,0.78,0,0.06
+2018,8780,Scienze dell'educazione permanente e della formazione continua,0.68,0.36,0,1,0.94,0.5,0.66,0,0.08
+2018,8781,Pedagogia,0.38,0.3,0.04,0.88,0.9,0.78,0.68,0.04,0.06
+2018,8782,Relazioni internazionali,0.8,0.71,0.35,0.73,0.88,0.59,0.48,0.09,0.13
+2018,8783,Scienze internazionali e diplomatiche,0.8,0.65,0.56,0.83,0.88,0.42,0.48,0.13,0.13
+2018,8784,"Politica, amministrazione e organizzazione",0.67,0.63,0.13,0.82,0.91,0.67,0.58,0.11,0.06
+2018,8785,Sviluppo locale e globale,0.72,0.68,0.33,0.73,0.82,0.5,0.52,0.07,0.13
+2018,8786,Sociologia e servizio sociale,0.61,0.5,0.11,0.87,0.88,0.6,0.63,0.15,0.07
+2018,8787,Moda,0.85,0.81,0.18,0.88,0.83,0.47,0.53,0.09,0.11
+2018,8829,Ingegneria dei processi e dei sistemi edilizi,0.44,0.67,0.15,0.87,0.88,0.72,0.58,0.05,0.12
+2018,8834,Acquacoltura e igiene delle produzioni ittiche,0.45,0.3,0.05,0.9,0.87,0.46,0.41,0.39,0.44
+2018,8835,Economics and finance /economia e finanza,0.62,0.65,0.17,0.8,0.87,0.15,0.29,0.75,0.65
+2018,8836,"Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione",0.6,0.5,0,0.9,0.89,0.4,0.4,0.6,0.22
+2018,8837,Discipline della musica e del teatro,0.79,0.39,0.03,0.93,0.89,1,0.67,0,0.11
+2018,8838,Scienze del libro e del documento,0.56,0.44,0.11,0.95,0.92,1,0.53,0,0.09
+2018,8839,Resource economics and sustainable development / economia delle risorse e dello sviluppo sostenibile,0.83,0.68,0.24,0.72,0.9,0.33,0.56,0.17,0.16
+2018,8840,Comunicazione pubblica e d'impresa,0.62,0.82,0.1,0.68,0.86,0.51,0.59,0.14,0.1
+2018,8841,Fashion culture and management / cultura e management della moda,0.85,0.81,0.18,0.88,0.83,0.47,0.53,0.09,0.11
+2018,8842,Amministrazione e gestione d'impresa,0.48,0.73,0.06,0.97,0.92,0.59,0.62,0.17,0.13
+2018,8843,Management dell'economia sociale,0.68,0.68,0.31,1,0.92,0.79,0.62,0.07,0.13
+2018,8844,"Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali",0.91,0.55,0.29,0.73,0.82,0.49,0.52,0.12,0.13
+2018,8845,Scienze storiche e orientalistiche,0.65,0.4,0.16,0.92,0.91,0.5,0.49,0.2,0.18
+2018,8846,Telecommunications engineering / ingegneria delle telecomunicazioni,0.78,0.48,0.06,0.81,0.95,0.7,0.71,0.3,0.18
+2018,8847,Economia del turismo,0.61,0.55,0.1,0.83,0.87,0.48,0.29,0.26,0.65
+2018,8848,Economia dell'impresa,0.27,0.39,0.02,0.89,0.89,0.56,0.33,0.36,0.6
+2018,8849,Beni culturali,0.42,0.52,0.06,0.94,0.88,0.4,0.34,0.57,0.55
+2018,8850,Lettere,0.6,0.51,0.15,0.92,0.88,0.29,0.29,0.64,0.67
+2018,8851,Economia e commercio,0.25,0.57,0.07,0.96,0.89,0.48,0.33,0.47,0.6
+2018,8852,Scienze della comunicazione,0.5,0.49,0.07,0.88,0.86,0.48,0.46,0.29,0.37
+2018,8853,"Scienze politiche, sociali e internazionali",0.62,0.47,0.17,0.85,0.89,0.31,0.36,0.63,0.55
+2018,8854,Quantitative finance,0.8,0.67,0.54,0.91,0.92,0.88,0.73,0.08,0.09
+2018,8855,Archeologia e culture del mondo antico,0.72,0.51,0.13,0.91,0.89,0.37,0.4,0.34,0.22
+2018,8856,Chimica,0.74,0.53,0.42,0.89,0.91,0.29,0.43,0.39,0.31
+2018,8857,Biologia marina,0.74,0.81,0.14,0.88,0.9,0.33,0.33,0.13,0.23
+2018,8858,Economia e gestione aziendale,0.47,0.83,0.42,0.96,0.92,0.8,0.62,0.09,0.13
+2018,8859,Biotecnologie mediche,0.88,0.83,0.09,0.88,0.91,0.25,0.31,0.27,0.27
+2018,8871,Economia aziendale,0.41,0.6,0.09,0.94,0.89,0.27,0.33,0.69,0.6
+2018,8872,"Finanza, assicurazioni e impresa",0.39,0.49,0.07,0.89,0.94,0.28,0.38,0.59,0.55
+2018,8873,Scienze statistiche,0.39,0.57,0.17,0.98,0.94,0.34,0.38,0.57,0.55
+2018,8874,"Language, society and communication / lingua, societa e comunicazione",0.72,0.77,0.43,0.73,0.84,0.6,0.66,0.09,0.07
+2018,8875,Scienze statistiche,0.59,0.6,0.13,0.93,0.91,0.67,0.7,0.08,0.14
+2018,8876,"Statistica, economia e impresa",0.65,0.6,0.16,0.88,0.91,0.74,0.7,0.07,0.14
+2018,8877,"Scienze statistiche, finanziarie e attuariali",0.55,0.7,0.07,0.9,0.94,0.76,0.8,0.08,0.08
+2018,8878,Scienze delle professioni sanitarie della prevenzione,0.67,0.73,0,0.75,0.72,,0.76,,0.05
+2018,8879,Assistenza sanitaria (abilitante alla professione sanitaria di assistente sanitario),0.25,,,,0.87,,0.51,,0.21
+2018,8880,Health economics and management / economia sanitaria e management,1,0.7,1,,0.9,,0.56,,0.16
+2018,8882,Produzioni animali,0.42,0.38,0.05,0.88,0.87,0.47,0.41,0.33,0.44
+2018,8883,International horticultural science / ortofrutticoltura internazionale,0.69,0.8,0.59,0.93,0.9,0.78,0.56,0.11,0.12
+2018,8884,Scienze e tecnologie agrarie,0.57,0.62,0.14,0.9,0.9,0.75,0.56,0.04,0.12
+2018,8885,Scienze della comunicazione,0.5,0.49,0.07,0.88,0.86,0.48,0.46,0.29,0.37
+2018,8886,Semiotica,0.7,0.43,0.11,0.8,0.84,0.47,0.56,0.26,0.11
+2018,8887,Ingegneria chimica e biochimica,0.49,0.39,0.06,0.89,0.9,0.07,0.21,0.93,0.77
+2018,8888,Ingegneria civile,0.47,0.32,0.02,0.83,0.87,0.24,0.2,0.74,0.76
+2018,8889,"Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali",0.91,0.55,0.29,0.73,0.82,0.49,0.52,0.12,0.13
+2018,8890,Sviluppo e cooperazione internazionale,0.59,0.44,0.19,0.77,0.83,0.48,0.4,0.52,0.49
+2018,8891,Automation engineering / ingegneria dell'automazione,0.58,0.56,0.09,0.92,0.93,0.75,0.79,0.22,0.15
+2018,8894,Ingegneria per l'ambiente e il territorio,0.77,0.66,0.18,0.87,0.91,0.6,0.54,0.07,0.12
+2018,8895,Civil engineering,0.88,0.7,0.36,0.98,0.9,0.58,0.63,0.2,0.11
+2018,8896,Ingegneria chimica e di processo,0.79,0.53,0.23,0.96,0.94,0.73,0.6,0.15,0.17
+2018,8965,Business and economics/economia e gestione di impresa,0.62,0.73,0.45,0.87,0.89,0.35,0.33,0.59,0.6
+2018,9021,Advanced design,0.62,,,,0.8,,0.56,,0.1
+2018,9022,Fashion culture and management,0.85,0.81,0.18,0.88,0.83,0.47,0.53,0.09,0.11
+2018,9174,Specialized translation,0.62,0.81,0.44,0.98,0.89,0.77,0.7,0.06,0.05
+2018,9198,Ingegneria per l'ambiente e il territorio,0.33,0.32,0.03,0.91,0.87,0.24,0.2,0.73,0.76
+2018,9199,Ingegneria edile,0.26,0.02,0,0.83,0.81,0.34,0.28,0.59,0.69
+2018,9200,Sviluppo locale e globale,0.72,0.68,0.33,0.73,0.82,0.5,0.52,0.07,0.13
+2018,9201,Ostetricia (abilitante alla professione sanitaria di ostetrica/o),0.57,0.88,0,0.95,0.91,0.54,0.73,0.23,0.06
+2018,9202,Economia e commercio,0.25,0.57,0.07,0.96,0.89,0.48,0.33,0.47,0.6
+2018,9203,Economia e management,0.47,0.83,0.42,0.96,0.92,0.8,0.62,0.09,0.13
+2018,9205,Telecommunications engineering,0.78,0.48,0.06,0.81,0.95,0.7,0.71,0.3,0.18
+2018,9206,Pedagogia,0.38,0.3,0.04,0.88,0.9,0.78,0.68,0.04,0.06
+2018,9210,Medicine and surgery,0.8,,,,0.85,,0.41,,0.46
+2018,9211,Genomics,0.53,,,,0.93,,0.19,,0.78
+2018,9212,Biologia della salute,0.55,0.71,0.02,0.92,0.9,0.44,0.33,0.16,0.23
+2018,9213,Biotecnologie molecolari e industriali,0.71,0.71,0.08,0.88,0.93,0.16,0.37,0.47,0.31
+2018,9214,Management delle attivita motorie e sportive,0.74,0.81,0.17,0.62,0.69,0.63,0.68,0.11,0.11
+2018,9215,Scienze e tecniche dell'attivita motoria preventiva e adattata,0.26,0.77,0.07,0.79,0.8,0.88,0.76,0.02,0.06
+2018,9216,Filosofia,0.66,0.5,0.11,0.88,0.89,0.33,0.31,0.64,0.64
+2018,9217,Ingegneria dell'automazione,0.33,0.32,0.17,0.88,0.89,0.26,0.26,0.71,0.72
+2018,9218,"Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione",0.6,0.5,0,0.9,0.89,0.4,0.4,0.6,0.22
+2018,9219,Farmacia,0.5,0.19,0.11,0.88,0.92,0.55,0.58,0.13,0.16
+2018,9220,"Italianistica, culture letterarie europee, scienze linguistiche",0.68,0.57,0.13,0.92,0.91,0.56,0.54,0.18,0.13
+2018,9221,Economia e diritto,0.67,0.77,0.1,0.92,0.9,0.67,0.56,0.04,0.16
+2018,9222,Statistical sciences,0.59,0.6,0.13,0.93,0.91,0.67,0.7,0.08,0.14
+2018,9223,Farmacia,0.26,0.42,0,0.93,0.92,0.58,0.58,0.1,0.16
+2018,9224,Digital humanities and digital knowledge,0.7,,,,0.87,,0.5,,0.38
+2018,9227,"Wellness culture: sport, health and tourism",0.71,,,,0.69,,0.68,,0.11
+2018,9228,Progettazione e gestione dell'intervento educativo nel disagio sociale,0.65,0.52,0.07,0.87,0.88,0.88,0.78,0.04,0.06
+2018,9229,Progettazione e gestione dell'intervento educativo nel disagio sociale,0.7,0.71,0,0.94,0.88,0.9,0.78,0,0.06
+2018,9230,Consulente del lavoro e delle relazioni aziendali,0.46,0.22,0,0.91,0.89,0.5,0.51,0.3,0.3
+2018,9231,Giurista per le imprese e per la pubblica amministrazione,0.25,0.38,0.02,0.92,0.89,0.56,0.51,0.3,0.3
+2018,9232,Giurisprudenza,0.65,0.35,0.19,0.89,0.87,0.26,0.23,0.42,0.42
+2018,9233,Giurisprudenza,0.16,0.29,0.13,0.97,0.87,0.22,0.23,0.41,0.42
+2018,9234,Ingegneria aerospaziale,0.35,0.31,0.02,1,0.9,0.41,0.21,0.59,0.77
+2018,9235,Scienze e tecnologie agrarie,0.57,0.62,0.14,0.9,0.9,0.75,0.56,0.04,0.12
+2018,9236,"Work, organizational and personnel psychology",0.9,0.96,0.47,0.94,0.92,0.32,0.43,0.26,0.29
+2018,9237,International cooperation on human rights and intercultural heritage,0.91,0.55,0.29,0.73,0.82,0.49,0.52,0.12,0.13
+2018,9238,Advanced automotive electronic engineering,0.64,,,,0.91,,0.7,,0.18
+2018,9239,Advanced automotive engineering,0.9,,,,0.92,,0.8,,0.1
+2018,9242,Giurista per le imprese e per la pubblica amministrazione,0.25,0.38,0.02,0.92,0.89,0.56,0.51,0.3,0.3
+2018,9243,Ingegneria biomedica,0.54,0.29,0.02,0.91,0.89,0.77,0.64,0.1,0.17
+2018,9244,Fisica,0.33,0.44,0.03,0.91,0.9,0.2,0.3,0.8,0.67
+2018,9245,Physics,0.51,0.57,0.04,0.88,0.92,0.54,0.3,0.37,0.58
+2018,9247,Scienze internazionali e diplomatiche,0.8,0.65,0.56,0.83,0.88,0.42,0.48,0.13,0.13
+2018,9254,Ingegneria informatica,0.44,0.37,0.03,0.92,0.89,0.41,0.26,0.59,0.72
+2018,9255,Ingegneria dell'energia elettrica,0.39,0.31,0,0.9,0.9,0.31,0.21,0.69,0.77
+2018,9256,Advanced design,0.62,,,,0.8,,0.56,,0.1
+2018,9257,Scienze e gestione della natura,0.64,0.71,0.1,0.82,0.85,0.6,0.45,0.15,0.14
